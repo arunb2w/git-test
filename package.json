@@ -1,0 +1,20 @@
+{
+  "name": "node_exercises",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunb2w/git-test.git"
+  },
+  "author": "parunkarthick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunb2w/git-test/issues"
+  },
+  "homepage": "https://github.com/arunb2w/git-test#readme"
+}
